@@ -41,7 +41,7 @@ export const AboutMe = () => {
                         Get In Touch
                     </a>
 
-                    <a href="/Resume/Abhijeet Singh Parihar Resume.pdf" download className="px-6 py-2 rounded-full  border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
+                    <a href="/Resume/Abhijeet Singh Parihar_Resume.pdf" download className="px-6 py-2 rounded-full  border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                         Download CV
                     </a>
                 </div>
