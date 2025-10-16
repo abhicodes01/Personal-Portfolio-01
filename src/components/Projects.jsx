@@ -16,7 +16,7 @@ const projects = [
 
     {
         id:2,
-        title: "ProductPalace - Product Management",
+        title: "Mech2Door",
         description: "A full-stack MERN application for managing products with CRUD operations, secure auth, and real-time updates.",
         image: "/Projects/ProductPalace.png",
         tags: ["Node.js", "MongoDB","Express.js","PostMan","Tailwind CSS", "React"],
@@ -25,7 +25,7 @@ const projects = [
     },
 
     {
-        id:3,
+        id:5,
         title: "VirtualR - Developer Tools Website",
         description: "A dynamic and responsive virtual reality showcase built with React, featuring sleek UI and interactive components.",
         image: "/Projects/VirtualR.png",
@@ -45,13 +45,13 @@ const projects = [
     },
 
     {
-        id:5,
-        title: "Grill - Restaurant Landing Page",
+        id:3,
+        title: "HR Email Automation",
         description: "A visually appealing and responsive restaurant landing page built using pure HTML and CSS.",
         image: "/Projects/Grill.png",
-        tags: [ "Javascript", "CSS", "HTML"],
+        tags: [ "Javascript", "Node.js", "Gen API", "Nodemailer", "xlsx"],
         url: "#",
-        git: "https://github.com/abhicodes01/Html-Css-Javascript-Projects"
+        git: "https://github.com/abhicodes01/AI-HR-EmailAutomation"
     },
 ]
 
